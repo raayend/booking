@@ -1,2 +1,1 @@
-# booking
-bot regist + verif email + claim voucher for booking dot com
+<h2 align="center">Booking.Com</h2>
